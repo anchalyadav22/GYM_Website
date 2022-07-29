@@ -1,4 +1,5 @@
 # GYM_Website
 # This is my first website build using HTML, CSS 
 
-![fitness](https://user-images.githubusercontent.com/107067515/181777973-3ca639dc-c951-4019-a768-10847c90a419.PNG)
+
+![fitness1](https://user-images.githubusercontent.com/107067515/181778549-89fd05f8-1a17-457d-871a-2ff92484ce99.png)
